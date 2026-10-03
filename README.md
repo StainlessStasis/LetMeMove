@@ -9,6 +9,8 @@ First, you'll need to install [Blueprint Loader](https://www.nexusmods.com/minec
 4) Download the latest release, unzip it, and drop the `.pak` file into that ~mods folder.
 
 # Other Notes
+See also: https://github.com/StainlessStasis/LetMeAttack
+
 I would suggest using strictly the `Forward Roll` instead of `Directional Roll`, since it feels weird to hold one direction but still roll toward your mouse. Also, the mod is hardcoded to check for WASD - these cannot be rebound. Lastly, this mod also changes the rotation speed of your character to get it to interpolate smoothly. I'm searching for a way to make this value configurable, but until then, let me know if you prefer slower rotation speed, or none at all. Feel free to open an issue or whatever.
 
 Ok one more thing. This is for Minecraft Dungeons ONE. I know 2 just came out but that's exactly why I came back to the first game. So yeah, a bit late, but hopefully someone can make use of this!
