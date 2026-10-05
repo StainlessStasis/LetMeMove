@@ -1,4 +1,9 @@
 *
 !.gitignore
-!/Dungeons/
-!/Dungeons/**
+!/UE4Project/
+!/UE4Project/**
+UE4Project/Build/*
+UE4Project/Intermediate/*
+UE4Project/Saved/*
+UE4Project/Binaries/*
+UE4Project/Source/*
