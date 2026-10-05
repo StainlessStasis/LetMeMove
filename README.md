@@ -11,6 +11,9 @@ Along with this mod, you'll need [Blueprint Loader](https://www.nexusmods.com/mi
 # Config
 Press F8 to open/close the config. Here you can edit the keybinds for movement, and set the turn rate of your character. Multiple actions can be bound to the same key if you wanted to do that for some reason. It won't alert to conflicts or duplicates, so be aware that you'll probably want to double check the game's keybinds before editing LetMeMove's.
 
+# Multiplayer Compatibility
+Use [BPLoaderMultiplayerFix](https://github.com/StainlessStasis/BPLoaderMultiplayerFix) if you're playing online multiplayer. This fixes the issue of WASD not working for other players who join the host. There is still currently an issue where you won't see other players visually rotate, but otherwise it is functional. Also, I recommend disabling your chat keybinds - but leave the Supplies one bound to some key you don't use.
+
 # Other Notes
 I've made a separate mod for getting rid of left click mouse movement: https://github.com/StainlessStasis/LetMeAttack
 
